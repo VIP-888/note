@@ -122,3 +122,8 @@ IMG_20230512_175117.jpg1080×264 56.5 KB
 并且，居然还提供网站的 RSS，我的主站地址是 [https://enneaa.netlify.app/ 18](https://enneaa.netlify.app/) ，那么 RSS 订阅地址就是 [ä¹æ¨ð² 1](https://enneaa.netlify.app/feed.xml) 。
 
 以上就是全部内容，希望能给大家带来一些帮助。
+
+---
+另外一个发布插件
+[https://github.com/jonstodle/obsius-obsidian-plugin/issues](https://github.com/jonstodle/obsius-obsidian-plugin/issues)
+可以关注
