@@ -127,3 +127,8 @@ IMG_20230512_175117.jpg1080×264 56.5 KB
 另外一个发布插件
 [https://github.com/jonstodle/obsius-obsidian-plugin/issues](https://github.com/jonstodle/obsius-obsidian-plugin/issues)
 可以关注
+
+---
+[https://www.gachi.cn/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/obsidian/%E5%8F%91%E5%B8%83%E6%96%B9%E6%A1%88/](https://www.gachi.cn/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/obsidian/%E5%8F%91%E5%B8%83%E6%96%B9%E6%A1%88/)
+
+---
