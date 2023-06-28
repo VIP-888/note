@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/剪藏/网页/Obsidian 最简单的发布分享方式/"}
+{"dg-publish":true,"dg-permalink":"发布","permalink":"/发布/"}
 ---
 
 
